@@ -1,20 +1,3 @@
 # 2019shop
 
-#example1
-
-###################
-1. Pizza : 20000
-2. Chicken : 12000
-
-원하는 메뉴? 1<br />
--> PIZZA 선택
-
-==============
-#example2
-
-###################
-1. Pizza : 20000
-2. Chicken : 12000
-
-원하는 메뉴? 2<br />
--> Chicken 선택
+<img src='https://github.com/jerry10004/2019shop/blob/master/%EA%B7%B8%EB%A6%BC1.png'>
